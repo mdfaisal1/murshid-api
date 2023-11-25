@@ -4,10 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node index.js",
     "test": "jest --setupFiles=@faker-js/faker/setup"
   },
-  "keywords": [],
+  "engines": {
+    "node": "21.x"
+  },
+  "keywords": [
+    "node",
+    "glitch"
+  ],
   "author": "Mohammad Faisal",
   "license": "ISC",
   "dependencies": {
