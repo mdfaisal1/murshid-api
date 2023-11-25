@@ -25,7 +25,8 @@
     "nodemon": "^3.0.1",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.0",
-    "winston": "^3.10.0"
+    "winston": "^3.10.0",
+    "node":"^21.2.0"
   },
   "devDependencies": {
     "jest": "^29.7.0"
